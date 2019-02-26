@@ -1,3 +1,3 @@
-# https-github.com-DamienOConnell-vpn-checker-new
+# ssh-ping-poller
 
-Start of the process. 
+Utility script 
