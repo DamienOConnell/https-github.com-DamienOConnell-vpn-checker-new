@@ -1,0 +1,7 @@
+This message is informational, no action required.
+The scheduled automated check on the monitored link was completed.
+The status was healthy, ${SUCCESSES} successful responses from ${POLLS} polls.
+
+Regards,
+
+your friendly poller

@@ -1,0 +1,13 @@
+This automated scheduled check did not succeed.
+There were ${SUCCESSES} successful responses from ${POLLS} polls.
+
+This may mean that a critical link has failed.
+
+Please log a case and notify the Network team.
+If it is now after hours, please call the OnCall Network Engineer with ticket number.
+An incident should be raised to track investigation of the status.
+
+
+Regards,
+
+your friendly poller
